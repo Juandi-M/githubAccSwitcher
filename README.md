@@ -1,7 +1,7 @@
 # GitHub Account Switcher 
-![Placeholder Badge 1](https://img.shields.io/badge/Placeholder-Badge1-brightgreen) ![Placeholder Badge 2](https://img.shields.io/badge/Placeholder-Badge2-blue)
+![Placeholder Badge 1](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Placeholder Badge 2](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-This script allows you to easily switch between different GitHub accounts on your local machine (Mac, Linux or Windows WSL)
+This script allows you to easily switch between different GitHub accounts on your local Mac (MacOS)
 
 ## Table of Contents
 
